@@ -1,0 +1,15 @@
+numpy
+pandas
+librosa
+pydub
+python-speech-features
+jiwer
+pystoi
+pesq
+torch
+TTS
+matplotlib
+seaborn
+boto3
+whisper
+soundfile
