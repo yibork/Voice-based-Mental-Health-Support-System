@@ -402,9 +402,3 @@ While the foundational components of the system are operational, further refinem
 3. **ChatCounselor: A Large Language Models for Mental Health Support**  
    J. M. Liu, D. Li, H. Cao, T. Ren, Z. Liao, and J. Wu, Sep. 27, 2023  
    DOI: [10.48550/arXiv.2309.15461](https://arxiv.org/abs/2309.15461)
-
----
-
-This README provides a comprehensive overview of the **Chat Counselor** project, detailing the architecture, implementation, and instructions for running the application. It incorporates information from the project report and additional data to ensure that developers and users can easily understand and interact with the system.
-
-Feel free to modify and expand upon this README to suit the specific needs of your project or to include any additional information.
