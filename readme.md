@@ -35,6 +35,7 @@ Chat Counselor is a voice-based mental health support system enabling users to i
 - **FAISS**: Facebook AI Similarity Search for efficient vector similarity search.
 
 ### System Architecture
+./assets/architecture.png
 1. **Mobile Application**:
    - Built with React Native.
    - Captures user audio input.
