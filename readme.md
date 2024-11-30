@@ -1,4 +1,3 @@
-+++markdown
 # Chat Counselor: Voice-based Mental Health Support System
 
 ## Table of Contents
@@ -178,4 +177,3 @@ This project integrates React Native, FastAPI, AWS Polly, and LangChain to creat
 - ChatCounselor: A Large Language Models for Mental Health Support  
   J. M. Liu, D. Li, H. Cao, T. Ren, Z. Liao, and J. Wu, Sep. 27, 2023  
   DOI: 10.48550/arXiv.2309.15461
-+++
