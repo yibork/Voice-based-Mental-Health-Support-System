@@ -126,13 +126,9 @@ Replace `<your-ip-address>` with the IP address of the machine running the serve
 
 ### 1. Start the LLM Server
 
-If you're using an LLM server like **Ollama**, start it using Docker:
 
-```bash
-docker run -p 11434:11434 ghcr.io/jmorganca/ollama:v0.0.11
-```
 
-Ensure the LLM server is up and running.
+Ensure the LLM server is up and running. GO to **Ollama** documentation to get familliar with starting an Ollama container.
 
 ### 2. Run the FastAPI Server
 
@@ -245,9 +241,7 @@ These scripts will evaluate different TTS models and output their performance me
 
 ## Future Work
 
-- **Local TTS Solution**: Implement a local TTS model to replace AWS Polly for improved performance and reduced costs.
 - **Enhanced Conversational AI**: Integrate advanced dialogue management and sentiment analysis to provide more personalized responses.
-- **Scalability and Deployment**: Containerize the application using Docker for easier deployment and scalability.
 
 ---
 
